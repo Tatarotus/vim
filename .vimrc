@@ -21,6 +21,8 @@ Plug 'mattn/emmet-vim'
 Plug 'jiangmiao/auto-pairs'
 " Pretty Cool Theme
 Plug 'sainnhe/sonokai'
+" NerdTree Icons
+Plug 'ryanoasis/vim-devicons'
 call plug#end()
 
 "~~Theme~~
